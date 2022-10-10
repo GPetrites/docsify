@@ -1,5 +1,3 @@
-# Hello world
-
 * Getting started
 
   * [Quick start](quickstart.md)
