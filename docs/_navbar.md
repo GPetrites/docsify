@@ -1,14 +1,14 @@
 * Getting started
 
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+  * [Quick start](guide.md)
+  * [Writing more pages](Page1.md)
+  * [Custom navbar](Page2.md)
+  * [Cover page](Page1.md)
 
 * Configuration
 
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+  * [Configuration](guide.md)
+  * [Themes](Page1.md)
+  * [Using plugins](Page2.md)
+  * [Markdown configuration](Page1.md)
+  * [Language highlight](Page2.md)
