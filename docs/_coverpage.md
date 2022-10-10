@@ -1,6 +1,6 @@
 # cover page
 
-[Guide](guide)
+[Getting Started](guide)
 
 <!-- background color -->
 
