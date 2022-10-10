@@ -1,5 +1,5 @@
 * [Home](/)
 - Usage
     * [Guide](guide.md)
-    * [Page 1](page1.md)
-    * [Page 2](page2.md)
+    * [Page 1](Page1.md)
+    * [Page 2](Page2.md)
